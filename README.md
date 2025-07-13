@@ -5,6 +5,6 @@
 - I'm always eager to learn new things, and love solving complex problems with simple, effective solutions.
 
 ![C/C++](https://img.shields.io/badge/-C/C++-azure?style=for-the-badge&logo=c&logoColor=black)
-![C#](https://img.shields.io/badge/-C%23-000000?logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-000000?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
