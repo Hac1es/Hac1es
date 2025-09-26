@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?color=1E90FF&lines=Blue+Teamer;Coffee+addict;Finding+magic+in+everyday+life)](https://git.io/typing-svg)
+
 # Xin chào 👋
 ### My name is Tùng!
 - I'm currently an undergraduate student majoring in **Information Security** at the **University of Information Technology (UIT) – VNU-HCM**.
