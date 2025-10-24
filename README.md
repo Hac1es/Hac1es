@@ -37,5 +37,3 @@
 ### 💬 Fav quote
 > *"Điều quan trọng là một trái tim kiên cường."*  
 > — Deft
-
----
