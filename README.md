@@ -12,7 +12,7 @@
 
 - **Major**: Information Security  
 - **Focus Areas**: Blue Team, DevSecOps, Cloud Security  
-- **Languages**: Vietnamese (Native), English (Fluent)  
+- **Languages**: Vietnamese (Native), English 
 
 ---
 
