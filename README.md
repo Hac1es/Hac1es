@@ -14,26 +14,6 @@
 - **Focus Areas**: Blue Team, DevSecOps, Cloud Security  
 - **Languages**: Vietnamese (Native), English 
 
----
 
-### 💡 Interests
-
-- Studying how failure shapes strength
-- Turning complexity into clarity
-- Coffee ☕
-
----
-
-### ⚙️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cs,cpp,git,docker,ansible,terraform,aws,azure,openstack,elasticsearch" />
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="45" />
-</p>
-
----
-
-
-### 💬 Fav quote
 > *"Điều quan trọng là một trái tim kiên cường."*  
 > — Deft
