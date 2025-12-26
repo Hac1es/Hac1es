@@ -8,13 +8,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=00B8D9&duration=2000&pause=1000&color=3DF7D0&center=true&vCenter=true&width=600&lines=Information+Security+@+UIT;Blue+Team+Enthusiast;AI+Security+Learner;Coffee-driven" />
 </p>
 
-<p align="center"> 
-  I'm Tùng, currently an undergraduate student majoring in <b>Information Security</b> at the <b>University of Information Technology</b> (UIT) - <b>VNU-HCMC.
-</p>
+I'm Tùng, currently an undergraduate student majoring in <b>Information Security</b> at the <b>University of Information Technology</b> (UIT) - <b>VNU-HCMC.
 
-<p align="center">
-  <b>Focus Areas</b>: Blue Team, DevSecOps, Cloud Security  
-</p>
+**Focus Areas**: Blue Team, DevSecOps, Cloud Security  
 
 > *"Điều quan trọng là một trái tim kiên cường."*  
 > — Deft
