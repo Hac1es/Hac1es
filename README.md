@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1047" height="287" alt="image" src="https://github.com/user-attachments/assets/cf0157f3-622b-4fc3-913b-ef543d2d7863" /><div align="center">
   <img src="https://media.istockphoto.com/id/1310856908/vi/vec-to/vector-minh-h%E1%BB%8Da-c%E1%BB%A7a-m%E1%BB%99t-ng%C6%B0%E1%BB%9Di-%C4%91%C3%A0n-%C3%B4ng-hacker-trong-m%E1%BB%99t-chi%E1%BA%BFc-m%C5%A9-tr%C3%B9m-%C4%91%E1%BA%A7u-t%E1%BB%91i-ng%E1%BB%93i-t%E1%BA%A1i-m%E1%BB%99t.jpg?s=612x612&w=0&k=20&c=aigc_2YTUjZ2-NEerQ0WpSPzUuRPwXzRGcJTmuRNSzM=" width="250" alt="Hacker Illustration">
 </div>
 
@@ -12,5 +12,5 @@ I'm Tùng, currently an undergraduate student majoring in <b>Information Securit
 
 **Focus Areas**: Blue Team, DevSecOps, Cloud Security  
 
-> *"Điều quan trọng là một trái tim kiên cường."*  
-> — Deft
+> *"Shoot for the moon. Even if you miss, you'll land among the stars."*  
+> — Les Brown
