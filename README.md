@@ -8,9 +8,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=00B8D9&duration=2000&pause=1000&color=3DF7D0&center=true&vCenter=true&width=600&lines=Information+Security+@+UIT;Blue+Team+Enthusiast;AI+Security+Learner;Coffee-driven" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-0078D4?style=for-the-badge&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+</p>
+
 I'm Tùng, currently an undergraduate student majoring in <b>Information Security</b> at the <b>University of Information Technology</b> (UIT) - <b>VNU-HCMC.</b>
 
-**Focus Areas**: Blue Team, DevSecOps, Cloud Security  
+My current focus is on understanding how to design, secure, deploy, and operate reliable systems. I’m especially interested in the intersection between security and operations, where secure systems are not only well-protected but also scalable, resilient, and maintainable. 
+
+**Career Interests**: DevSecOps Engineer, Platform Engineer, and Site Reliability Engineer.
 
 > *"Shoot for the moon. Even if you miss, you'll land among the stars."*  
 > — Les Brown
