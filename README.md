@@ -19,7 +19,7 @@ I'm Tùng, currently an undergraduate student majoring in <b>Information Securit
 
 My current focus is on understanding how to design, secure, deploy, and operate reliable systems. I’m especially interested in the intersection between security and operations, where secure systems are not only well-protected but also scalable, resilient, and maintainable. 
 
-**Career Interests**: DevSecOps Engineer, Platform Engineer, and Site Reliability Engineer.
+**Career Interests**: DevSecOps Engineer | Platform Engineer | Site Reliability Engineer
 
 > *"Shoot for the moon. Even if you miss, you'll land among the stars."*  
 > — Les Brown
