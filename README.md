@@ -20,9 +20,9 @@
 
 I'm Tùng, currently an undergraduate student majoring in <b>Information Security</b> at the <b>University of Information Technology</b> (UIT) - <b>VNU-HCMC.</b>
 
-I’m particularly interested in distributed infrastructure and the engineering challenges involved in building resilient platforms, including failure handling, service availability, observability, infrastructure security, and operational automation. My goal is to design and operate systems that is reliable, scalable, secure, and maintainable in real-world environments.
+I’m particularly interested in distributed infrastructure and the engineering challenges involved in building resilient platforms, including failure handling, service availability, observability, infrastructure security, and operational automation. My goal is to design and operate systems that are reliable, scalable, secure, and maintainable in real-world environments.
 
-**Career Interests**: Cloud Engineer | Platform Engineer | Site Reliability Engineer
+**Career Interests**: Infrastructure Engineer | Platform Engineer | Site Reliability Engineer
 
 > *"Shoot for the moon. Even if you miss, you'll land among the stars."*  
 > — Les Brown
