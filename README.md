@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=00B8D9&duration=2000&pause=1000&color=3DF7D0&center=true&vCenter=true&width=600&lines=Information+Security+@+UIT;Infra-over-the-Infra+Enthusiast;Abstraction+Lover;Securing+at+Scale;Coffee-driven" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud-0078D4?style=for-the-badge&logo=icloud&logoColor=white" />
