@@ -14,13 +14,6 @@
   <img src="https://img.shields.io/badge/Cloud-0078D4?style=for-the-badge&logo=icloud&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-</p>
-
 I'm Tùng, currently an undergraduate student majoring in <b>Information Security</b> at the <b>University of Information Technology</b> (UIT) - <b>VNU-HCMC.</b>
 
 I’m particularly interested in distributed infrastructure and the engineering challenges involved in building resilient platforms, including failure handling, service availability, observability, infrastructure security, and operational automation. My goal is to design and operate systems that are reliable, scalable, secure, and maintainable in real-world environments.
