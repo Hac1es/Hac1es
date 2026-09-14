@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=00B8D9&duration=2000&pause=1000&color=3DF7D0&center=true&vCenter=true&width=600&lines=Information+Security+@+UIT;System+Engineer+@+GreenNode,+VNG;Infra-over-the-Infra+Enthusiast;Abstraction+Lover;Coffee-driven+☕" />
 </p>
 
-I'm Tùng, an undergraduate student majoring in <b>Information Security</b> at the <b>University of Information Technology</b> (UIT) - <b>VNU-HCM</b>. Currently, I'm a System Intern at GreenNode - VNG, working on GreenNode's cloud infrastructure and LBaaS platform.
+I'm Tùng, an undergraduate student majoring in <b>Information Security</b> at the <b>University of Information Technology</b> (UIT) - <b>VNU-HCM</b>. Currently, I'm a <b>System Intern</b> at <b>GreenNode, VNG</b>, working on GreenNode's cloud infrastructure and LBaaS platform.
 
 I’m particularly interested in distributed infrastructure and the engineering challenges involved in building resilient platforms, including failure handling, service availability, observability, infrastructure security, and operational automation. My long-term focus is to design and operate distributed systems that are reliable, scalable, secure, and maintainable in real-world environments.
 
